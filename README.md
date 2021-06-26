@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi 👋 Welcome to Seunghyunshin111's Github 👋
+
+
+### Data Analyst
+
+#### Lang
+<img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/-SQL-092e20?"/>  <img src="https://img.shields.io/badge/-Power BI(DAX)-092e20?"/>
+
 
 <!--
-**seunghyunshin111/seunghyunshin111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-SQL-092e20?"/>&nbsp
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Power BI-092e20?logo=Power BI&logoColor=white"/>&nbsp
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>&nbsp
+</p>
 -->
+
+[Visit My DataScience Roadmap!](https://mm.tt/1738940841?t=KLCxSbktun)
+![image](https://user-images.githubusercontent.com/37280722/103731006-7dd52780-5027-11eb-8bde-98da39ff0235.png)
+
