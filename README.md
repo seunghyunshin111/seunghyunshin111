@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SQL-092e20?"/>&nbsp
+  <img src="https://img.shields.io/badge/-T-SQL-092e20?"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
