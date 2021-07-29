@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>&nbsp
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyunshin/)](https://www.linkedin.com/in/seunghyunshin/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyunshin/)]
 
 </p>
 -->
