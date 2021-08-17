@@ -22,7 +22,7 @@
 ![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seunghyunshin111&theme=solarized_dark)
 ![seunghyunshin111 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seunghyunshin111&theme=solarized_dark)
 
-<br>
+
 ## Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&column=8&theme=radical&no-frame=true&no-bg=true"/>
