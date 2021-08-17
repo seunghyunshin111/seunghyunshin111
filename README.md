@@ -39,4 +39,4 @@
 
 ## Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=buddhism"></a> -->
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=buddhism"></a> -->
