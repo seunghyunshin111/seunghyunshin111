@@ -1,9 +1,5 @@
 ### Data Analyst
 
-
-
-### 📊 GitHub Stats:
----
 ![seunghyunshin111 github stats](https://github-readme-stats.vercel.app/api?username=seunghyunshin111&theme=radical&show_icons=true&count_private=true)
 
 ![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seunghyunshin111&theme=solarized_dark)
