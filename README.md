@@ -1,6 +1,20 @@
 ### Data Analyst
 
-<!--
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+
+
+### 📊 GitHub Stats:
+---
+![seunghyunshin111 github stats](https://github-readme-stats.vercel.app/api?username=seunghyunshin111&theme=radical&show_icons=true&count_private=true)
+
+![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seunghyunshin111&theme=solarized_dark)
+![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seunghyunshin111&theme=solarized_dark)
+![seunghyunshin111 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seunghyunshin111&theme=solarized_dark)
+
+
 <p align="left">
   <br>
   <br>
@@ -21,4 +35,3 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyunshin/)]
 
 </p>
--->
