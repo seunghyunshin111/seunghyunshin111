@@ -3,7 +3,6 @@
 ## Skills
 <p align="left">
   <br>
-  <br>
   <img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SQL-092e20?"/>&nbsp
