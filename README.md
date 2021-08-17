@@ -1,7 +1,5 @@
 # Data Analyst
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=seunghyunshin111" />
-
 <br>
 
 ## Skills
