@@ -30,7 +30,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=500 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=juicyfresh"></a>
 
-<!-- 
+
 ## Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&column=8&theme=radical&no-frame=true&no-bg=true"/>
@@ -39,4 +39,4 @@
 
 ## Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=buddhism"></a> -->
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=buddhism"></a>
