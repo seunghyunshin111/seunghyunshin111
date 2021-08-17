@@ -28,10 +28,4 @@
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Power BI-092e20?logo=Power BI&logoColor=white"/>&nbsp
   <br>
-  <br>
-  <img src="https://img.shields.io/badge/-Windows-092e20?logo=Windows&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-MacOS-092e20?logo=Apple&logoColor=white"/>&nbsp
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghyunshin/)]
-
 </p>
