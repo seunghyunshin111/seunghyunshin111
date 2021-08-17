@@ -1,5 +1,4 @@
 # Data Analyst
-### Slow but Never stopping
 
 <br>
 
