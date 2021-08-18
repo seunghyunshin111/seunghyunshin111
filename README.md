@@ -1,5 +1,5 @@
 # Data Analyst
-
+:sunny:
 <br>
 
 ## Skills
