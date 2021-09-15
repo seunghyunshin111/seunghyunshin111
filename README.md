@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Ms-SQL-092e20?logo=ms-sql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Power BI-092e20?logo=Power BI&logoColor=white"/>&nbsp
   <br>
 </p>
