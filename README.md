@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SQL-092e20?"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-Pandas-092e20?logo=Pandas&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Numpy-092e20?logo=Numpy&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
