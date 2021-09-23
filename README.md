@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-Octarve-092e20?logo=Octarve&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-MsSQL-092e20?logo=mssql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Power BI-092e20?logo=Power BI&logoColor=white"/>&nbsp
   <br>
 </p>
