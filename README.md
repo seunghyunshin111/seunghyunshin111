@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/-Python-092e20?logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-R Project-092e20?logo=R&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SQL-092e20?"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Microsoft SQL Server-092e20?logo=microsoft sql server&logoColor=white"/>&nbsp
