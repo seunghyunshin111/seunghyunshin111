@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Numpy-092e20?logo=Numpy&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-Clickhouse-092e20?logo=clickhouse&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-ClickHouse-092e20?logo=Click House&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Microsoft SQL Server-092e20?logo=microsoft sql server&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>&nbsp
