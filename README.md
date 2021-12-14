@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Git-092e20?logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-092e20?logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Microsoft SQL Server-092e20?logo=microsoft sql server&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-T-SQL"/>&nbsp
+  <img src="https://img.shields.io/badge/-T-SQL-092e20?logo=microsoft sql server&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-ClickHouse-092e20?logo=ClickHouse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Octave-092e20?logo=Octave&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SPSS-092e20?logo=SPSS&logoColor=white"/>&nbsp
