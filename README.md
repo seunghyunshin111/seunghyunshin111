@@ -24,12 +24,9 @@
 
 ## Stats
 ![seunghyunshin111 github stats](https://github-readme-stats.vercel.app/api?username=seunghyunshin111&theme=radical&show_icons=true&count_private=true)
-
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyunshin111&theme=dracula&layout=compact)
 ![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seunghyunshin111&theme=solarized_dark)
 ![seunghyunshin111 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seunghyunshin111&theme=solarized_dark)
 ![seunghyunshin111 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seunghyunshin111&theme=solarized_dark)
 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyunshin111&theme=tokyonight)
-
