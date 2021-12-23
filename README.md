@@ -31,17 +31,5 @@
 
 <br>
 
-## Trophy
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&theme=juicyfresh"></a>
-<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyunshin111&theme=tokyonight)
 
-## Trophy
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=seunghyunshin111&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a>
-
-
-## Trophy
-api/top-langs?username=seunghyunshin111
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/seunghyunshin111/seunghyunshin111/edit/main/README.md)
