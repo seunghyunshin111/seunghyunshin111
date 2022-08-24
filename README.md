@@ -1,4 +1,4 @@
-# Data Analyst (BI Developer, AI Engineer)
+# Data Analyst (Data Engineer, BI Engineer)
 
 <br>
 
